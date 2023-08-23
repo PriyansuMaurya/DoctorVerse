@@ -29,7 +29,7 @@ This would be an enriching experience for all Student Developers, Project Manage
 
 ## Getting started with Development
 
-- See the [Contributing.md](https://github.com/jain-rishabh-21/DoctorVerse/blob/main/Contributing.md) file to get started with development.
+- See the [CONTRIBUTING.md](https://github.com/jain-rishabh-21/DoctorVerse/blob/main/CONTRIBUTING.md) file to get started with development.
 
 ## Learning Resources 🧰
 

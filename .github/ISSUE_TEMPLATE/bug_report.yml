@@ -64,7 +64,7 @@ body:
     id: terms
     attributes:
       label: Contributor terms
-      description: By submitting this issue, you agree to follow our Contributing Instructions. Please read our [Contributing Instructions](https://github.com/jain-rishabh-21/DoctorVerse/blob/main/Contributing.md).
+      description: By submitting this issue, you agree to follow our Contributing Instructions. Please read our [Contributing Instructions](https://github.com/jain-rishabh-21/DoctorVerse/blob/main/CONTRIBUTING.md).
       options:
         - label: I agree to follow the Contributing Instructions
           required: true
